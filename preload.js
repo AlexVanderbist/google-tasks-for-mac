@@ -1,3 +1,1 @@
-window.onload = () => {
-    document.querySelector('body').style.display = null;
-}
+window.onload = () => document.querySelector('body').style.display = null;
