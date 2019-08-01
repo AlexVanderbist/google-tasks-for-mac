@@ -2,13 +2,22 @@
   "name": "gtasks",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "preload.js",
   "scripts": {
-    "start": "electron ."
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVanderbist/google-tasks-on-mac.git"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^6.0.0"
+  "bugs": {
+    "url": "https://github.com/AlexVanderbist/google-tasks-on-mac/issues"
+  },
+  "homepage": "https://github.com/AlexVanderbist/google-tasks-on-mac#readme",
+  "dependencies": {
+    "nativefier": "^7.6.12"
   }
 }
