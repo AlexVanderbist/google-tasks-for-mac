@@ -4,7 +4,7 @@
 
 Google Tasks has some pretty good mobile apps. However, there's no native Mac app yet. This application is a tiny wrapper around the Google Tasks widget that's embedded in Gmail and Google Calendar.
 
-[Download the latest release]()
+[Download the latest release](https://github.com/AlexVanderbist/google-tasks-for-mac/releases/download/0.0.1/Google.Tasks-darwin-x64.zip)
 
 ## Contributing
 
