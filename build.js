@@ -5,7 +5,7 @@ const fs = require('fs');
 var options = {
     name: 'Google Tasks',
     targetUrl: 'https://tasks.google.com/embed/?origin=https://calendar.google.com&fullWidth=1',
-    version: '0.36.4',
+    version: '0.0.1',
     out: '.',
     overwrite: true,
     width: 720,
