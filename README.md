@@ -17,3 +17,10 @@ Feel free to open issues with new ideas or open pull requests with new features.
 - `yarn install`
 - `yarn build`
 - output will be in the `Google Tasks-darwin-x64` directory
+
+## Disclaimer
+
+I'm not related to Google whatsoever and just built this for fun. Get in touch if your concerned:
+
+alex.vanderbist@gmail.com
+or @alexvanderbist on twitter.
