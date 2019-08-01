@@ -23,4 +23,4 @@ Feel free to open issues with new ideas or open pull requests with new features.
 I'm not related to Google whatsoever and just built this for fun. Get in touch if your concerned:
 
 alex.vanderbist@gmail.com
-or @alexvanderbist on twitter.
+or [@alexvanderbist](https://twitter.com/alexvanderbist) on twitter.
